@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Input from '../../Input/Input';
+import Input from '../Input/Input';
 import ListBills from '../ListBills/ListBills';
 
 const Bills = ({ cleanBills, removeBill, addBill, bills, updateBill }) => {

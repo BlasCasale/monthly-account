@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Input from "../../Input/Input";
+import Input from "../Input/Input";
 import ListEarnings from "../ListEarnings/ListEarnings";
 import './Earnings.css';
 

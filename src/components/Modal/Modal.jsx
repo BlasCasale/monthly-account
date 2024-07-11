@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import Input from "../../Input/Input";
+import Input from "../Input/Input";
 import './Modal.css';
 
 const Modal = ({ closeModal, amount, id, reason, update }) => {
