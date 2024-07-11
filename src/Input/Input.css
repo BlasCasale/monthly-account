@@ -1,0 +1,25 @@
+.box-input {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 10px;
+}
+
+.box-minor {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 4px;
+}
+
+.label {
+  font-size: 1.1rem;
+}
+
+.input {
+  padding: 5px;
+  border: 1px solid #000;
+  width: 185px;
+}
